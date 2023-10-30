@@ -1,0 +1,23 @@
+name: modul_cam_qr_1046
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.5+2
+  mobile_scanner: ^3.2.0
+  path_provider: ^2.0.15
+  qr_flutter: ^4.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
